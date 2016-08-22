@@ -1,0 +1,48 @@
+git hub --> cynter
+
+disco c -->xampp--> htdocs--> git gui--> clone --> 1 direccion de arriba la direccion del git hub que (clone or download-->esta en la pagina del git hub)
+				     --> 2 direccion--> broswer--> aceptar--> / y el nombre que le quiero poner a la carpeta.
+
+sublime text-->arrastro loa carpeta que estaba en la htdocs--> new file (index.html)
+ luego en el git gui --> rescan y tiene que aparecer (index.html)
+dps-->stage changet y pasa abajo
+
+edit-->options (en casa hay que hacerlo global)
+rescan-->stage changet--> commint
+
+dps push-> primero el ususario luego contraseña
+
+SERVIDOR (php)
+CLIENTE (html +css  / js
+
+
+para que corra un codigo php
+
+|-> .php
+|-> localhost:8080/nombre de la carpeta / enter
+
+
+-----------
+para comentar en html
+<!para comentar>
+
+------------
+
+
+---------------
+http://www.w3schools.com/
+variables php
+-> siempre inicia con el signo $
+
+una manera de concatenar
+|-> echo "<h2>Hola PHP soy $nombre </h2>";
+
+comillas simples no podes poner variables dentro
+
+para un salto de linea --> "<br>";
+
+
+
+
+
+----------------

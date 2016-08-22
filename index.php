@@ -10,5 +10,9 @@ hola mundo
 </html>
 
 <?php
-echo "Hola PHP";
+$nombre="Cynthia";
+echo '<h2>Hola PHP soy $nombre </h2>';
+echo "<h2>Hola PHP soy $nombre </h2>";
+echo '<h2>Hola PHP soy '.$nombre ."</h2>";
+echo "<br>";
 ?>
