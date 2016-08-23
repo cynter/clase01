@@ -1,6 +1,7 @@
 
 
 <?php
+
 $veces=1000000;
 
 $cont0=0;
@@ -84,18 +85,16 @@ switch ($random) {
 
 }
 
-echo "El numero aparecio ".($cont0*100)/$veces ."%<br>";
-echo "El numero aparecio ".($cont1*100)/$veces ."%<br>";
-echo "El numero aparecio ".($cont2*100)/$veces ."%<br>";
-echo "El numero aparecio ".($cont3*100)/$veces ."%<br>";
-echo "El numero aparecio ".($cont4*100)/$veces ."%<br>";
-echo "El numero aparecio ".($cont5*100)/$veces ."%<br>";
-echo "El numero aparecio ".($cont6*100)/$veces ."%<br>";
-echo "El numero aparecio ".($cont7*100)/$veces ."%<br>";
-echo "El numero aparecio ".($cont8*100)/$veces ."%<br>";
-echo "El numero aparecio ".($cont9*100)/$veces ."%<br>";
-
-
+echo "El numero 0 aparecio ".($cont0*100)/$veces ."%<br>";
+echo "El numero 1 aparecio ".($cont1*100)/$veces ."%<br>";
+echo "El numero 2 aparecio ".($cont2*100)/$veces ."%<br>";
+echo "El numero 3 aparecio ".($cont3*100)/$veces ."%<br>";
+echo "El numero 4 aparecio ".($cont4*100)/$veces ."%<br>";
+echo "El numero 5 aparecio ".($cont5*100)/$veces ."%<br>";
+echo "El numero 6 aparecio ".($cont6*100)/$veces ."%<br>";
+echo "El numero 7 aparecio ".($cont7*100)/$veces ."%<br>";
+echo "El numero 8 aparecio ".($cont8*100)/$veces ."%<br>";
+echo "El numero 9 aparecio ".($cont9*100)/$veces ."%<br>";
 
 
 ?>

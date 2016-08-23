@@ -41,7 +41,18 @@ comillas simples no podes poner variables dentro
 
 para un salto de linea --> "<br>";
 
+----------
 
+var_Dump( $MiArray); -->array dinamico para inspeccionar para saber que hay en el array -->es una funcion
+echo --> muestra una variable
+js--> console.log("error");
+
+
+
+git 
+apache 
+mysql-->maria
+sublimetext
 
 
 
